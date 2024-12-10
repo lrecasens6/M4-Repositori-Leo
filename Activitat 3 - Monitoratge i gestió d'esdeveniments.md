@@ -1,4 +1,5 @@
 1. Utilitza la comanda free i busca quanta memòria lliure té el sistema, indicala.
+![image](https://github.com/user-attachments/assets/59646d45-901f-475e-9d2d-cc9391fa0777)
 
 2. Obre Firefox i busca i indica la memòria lliure del sistema
 
