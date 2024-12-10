@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/59646d45-901f-475e-9d2d-cc9391fa0777)
 
 2. Obre Firefox i busca i indica la memòria lliure del sistema
-
+j
 3. Amb la comanda mpstat indica quanta capacitat de CPU està lliure i
 quantes CPUs té el sistema.
 
