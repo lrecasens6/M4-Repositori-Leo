@@ -33,3 +33,5 @@
 ![image](https://github.com/user-attachments/assets/6a6028a7-63a1-4efd-88f1-004d4ff34408)
 16- Ara anem a Windows per afegir l'impressora:
 ![image](https://github.com/user-attachments/assets/08d1fdc9-ec4e-4fd7-a38a-c9c954388fa6)
+17- Crear una fulla en Windows per comprovar que funciona:
+![image](https://github.com/user-attachments/assets/336dfe00-d22f-4e85-844c-e8573807bbf1)
