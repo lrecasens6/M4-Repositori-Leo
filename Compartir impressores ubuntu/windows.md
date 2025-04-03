@@ -1,3 +1,4 @@
+UBUNTU:
 1- Configurar les IP's de Ubuntu i Windows:
 ![image](https://github.com/user-attachments/assets/3f24d494-1ca8-44ae-b854-1a946795f19f)
 ![image](https://github.com/user-attachments/assets/b673210a-c0d8-4b5a-8b9b-4d5674490284)
