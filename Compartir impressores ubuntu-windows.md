@@ -52,3 +52,23 @@ UBUNTU:
 
 17- Crear una fulla en Windows per comprovar que funciona:
 ![image](https://github.com/user-attachments/assets/336dfe00-d22f-4e85-844c-e8573807bbf1)
+
+WINDOWS:
+1- 
+![image](https://github.com/user-attachments/assets/fdfa30a4-bb8e-44b5-9dac-bcd72bbd879d)
+![image](https://github.com/user-attachments/assets/7f47e7b5-a4d1-4cc1-bd86-dc657167e29c)
+
+2- 
+![image](https://github.com/user-attachments/assets/5295562e-b497-4ac8-a4fc-d8c0a0bdb9d3)
+
+3-
+![image](https://github.com/user-attachments/assets/50bad820-db41-464a-9e3b-941aa296b769)
+
+4-
+![image](https://github.com/user-attachments/assets/b24db84b-3963-4b40-90a6-4d12642651e5)
+![image](https://github.com/user-attachments/assets/45583ed1-40b4-4301-bbd1-d4a6046cafe1)
+![image](https://github.com/user-attachments/assets/44ee00e8-3a92-44ff-87b2-c4f7fd23c02e)
+
+5-
+![image](https://github.com/user-attachments/assets/b205d745-a16e-4e3d-86fc-9fe2a220b831)
+![image](https://github.com/user-attachments/assets/175c79f4-3a7f-4a08-8584-f750fdbec845)
