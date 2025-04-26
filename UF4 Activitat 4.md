@@ -1,4 +1,5 @@
 Crea un grup d'usuaris anomenat magatzem i afegeix alguns usuaris al grup.
+![image](https://github.com/user-attachments/assets/c54c12cf-fb66-4cc0-99be-9058bc1a3e2b)
 
 Crea una impressora anomenada imp_magatzem i comparteix-la amb el grup magatzem.
 
