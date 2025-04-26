@@ -12,7 +12,9 @@ Configuración de usuario > Plantillas administrativas > Sistema > Impedir el ac
 
 ![image](https://github.com/user-attachments/assets/062e022b-b63c-4f52-997c-cc6949c463f2)
 
-![image](https://github.com/user-attachments/assets/e8e9be15-7ca3-46af-918a-ed8a902bc92d)
+![image](https://github.com/user-attachments/assets/e582ff31-c492-45ba-8ecc-ef62831c0435)
+![image](https://github.com/user-attachments/assets/a17526e6-b663-449b-b657-c4ce038c7b91)
+
 
 Activitat 2
 
