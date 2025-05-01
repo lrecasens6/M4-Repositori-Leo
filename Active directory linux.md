@@ -77,3 +77,7 @@ Connecta l'equip Windows al domini
 Activitat 9
 
 Inicia sessió a Windows amb l'usuari que has creat a l'activitat 6
+
+![image](https://github.com/user-attachments/assets/9e55a496-7a12-4c47-a63a-390279c51cfc)
+
+![image](https://github.com/user-attachments/assets/714d465a-1737-408c-99c0-a930ac3e1ccf)
