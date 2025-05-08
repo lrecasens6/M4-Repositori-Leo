@@ -14,7 +14,10 @@ Crea una carpeta a la que pugui accedir qualsevol usuari anomenada pub.
 
 Activitat 3
 Accediu a la carpeta creada des del client Windows connectant-la a la unitat Z
-![image](https://github.com/user-attachments/assets/6d4d1faa-2a19-4c5e-a591-71366ab09cda)
+![Captura desde 2025-05-08 11-11-33](https://github.com/user-attachments/assets/69e8e71a-5fb4-4906-9338-75c0c596e5c6)
 
 Activitat 4
-Canvia la contrasenya per part d'un client 
+Canvia la contrasenya per part d'un client (Ctrl+Alt+Supr)
+![Captura desde 2025-05-08 11-19-48](https://github.com/user-attachments/assets/3a7cd538-5947-400c-98c5-313c59cd5ec6)
+
+![Captura desde 2025-05-08 11-20-10](https://github.com/user-attachments/assets/013723fb-11cc-428b-bddc-cb757b28981a)
